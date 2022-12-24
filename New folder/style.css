@@ -1,0 +1,18 @@
+
+body{
+	font-family: "times new roman" , sans-serif;}
+
+.imagebox img{
+	border-radius: 100%;
+	padding-right: 20px;
+}
+form.formtable {
+    padding: 20px;
+    box-shadow: cornsilk;
+    box-shadow: 4px 4px 10px rgb(212 212 212 / 50%);
+    border-radius: 10px;
+    width: 210px;
+    margin: 10px;
+    /* align-items: center; */
+    /* display: flow-root; */
+}
